@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://saighooh.manimul.com/sitemap.xml
